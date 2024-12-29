@@ -10,7 +10,7 @@
 
 I’m an enthusiastic **IT Service Desk Professional** with nearly two years of experience in IT support and a strong academic foundation in **Computer Networks** (BSc, University of Salford). I’m passionate about troubleshooting, IT infrastructure, and enhancing workflows, with a clear career goal of becoming a **DevOps Engineer**.
 
-In my current role, I assist end-users, manage IT incidents, and automate repetitive tasks to improve efficiency. I’m keen to build expertise in tools like **AWS**, **Docker**, and **Kubernetes**, while gaining hands-on experience with CI/CD pipelines and cloud infrastructure.
+In my current role, I assist end-users, manage IT incidents, and automate repetitive tasks to improve efficiency. I’m keen to build expertise in tools like **Azure**, **Docker**, and **Kubernetes**, while gaining hands-on experience with CI/CD pipelines and cloud infrastructure.
 
 ---
 
